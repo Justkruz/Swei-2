@@ -1,0 +1,6 @@
+{
+  "name": "S.W.E.I",
+  "description": "Smart Web Evolving Intelligence. Browser-native, file-based AI system with rich parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
